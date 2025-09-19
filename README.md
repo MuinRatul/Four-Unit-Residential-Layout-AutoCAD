@@ -29,11 +29,11 @@ The project presents a **4-unit residential building floor plan** designed using
 ## 🖼️ Screenshots
 
 ### 2D Layout
-![2D Layout](images/layout-2d.png)
+![2D Layout](Images/layout-2d.png)
 
 ### 3D Layout
-![3D Layout](images/layout-3d.png)
-![3D Layout](images/layout-3d2.png)
+![3D Layout](Images/layout-3d.png)
+![3D Layout](Images/layout-3d2.png)
 
 ---
 
